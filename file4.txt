@@ -1,1 +1,2 @@
 Contenido para pruebas
+New line in here file4(from master)
