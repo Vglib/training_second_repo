@@ -1,1 +1,2 @@
 Archivo generado en branch newfeature
+new line desde newfeature
